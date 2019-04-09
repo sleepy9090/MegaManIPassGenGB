@@ -1,0 +1,9 @@
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\bin\Release\MegaManIPassGenGB.exe.config
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\bin\Release\MegaManIPassGenGB.exe
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\bin\Release\MegaManIPassGenGB.pdb
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\obj\Release\MegaManIPassGenGB.FormMegaManIPassGenGB.resources
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\obj\Release\MegaManIPassGenGB.Properties.Resources.resources
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\obj\Release\MegaManIPassGenGB.csproj.GenerateResource.cache
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\obj\Release\MegaManIPassGenGB.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\obj\Release\MegaManIPassGenGB.exe
+C:\workspace_sandbox\MegaManIPassGenGB\MegaManIPassGenGB\obj\Release\MegaManIPassGenGB.pdb
